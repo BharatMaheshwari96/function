@@ -1,1 +1,3 @@
-# function
+# Function
+Function, in mathematics, an expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable). Functions are ubiquitous in mathematics and are essential for formulating physical relationships in the sciences. The modern definition of function was first given in 1837 by the German mathematician Peter Dirichlet:
+If a variable y is so related to a variable x that whenever a numerical value is assigned to x, there is a rule according to which a unique value of y is determined, then y is said to be a function of the independent variable x.
